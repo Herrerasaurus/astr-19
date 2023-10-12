@@ -9,7 +9,7 @@ of the resulting answer.
 
 def math():
 
-  #calculates the sum of two floating point nums
+	#calculates the sum of two floating point nums
 	##float values
 	f1 = 2.5
 	f2 = 3.6
